@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EuclideanAlgorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EuclideanAlgorithm\Algorithm\bin\Debug\Algorithm.dll
+C:\Users\User\Desktop\EuclideanAlgorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\User\Desktop\EuclideanAlgorithm\Algorithm\obj\Debug\Algorithm.dll
+C:\Users\User\Desktop\EuclideanAlgorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\User\Desktop\EuclideanAlgorithm\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
